@@ -1,0 +1,31 @@
+body{
+    background-color:mintcream;
+}
+
+p{
+    text-align: justify;
+}
+.footer{
+    background-color: #2F323A;
+    color: #D8DBE2;
+    text-align: center;
+    height: 60px;
+    padding: 15px 0px 0px 0px;
+}
+.d-block {
+    max-height: 768px;
+}
+
+#aboutCollege{
+    /* background-color: aqua; */
+    background-image: url('../images/building_4.jpg');
+    background-repeat: no-repeat;
+    height: auto;
+    color: #2F323A;
+}
+#photoGallery{
+    max-width: 300px;
+    background-color: mintcream;
+    border: none;
+    padding: 5 px;
+}

@@ -1,0 +1,41 @@
+body{
+    background-color:mintcream;
+}
+
+p{
+    text-align: justify;
+}
+
+.d-block {
+    max-height: 700px;
+}
+
+.coll_name{
+    background-color:lightslategray;
+    opacity: 0.7;
+}
+
+.coll_name h1{
+    border-bottom: 5px solid lightblue;
+}
+
+
+.footer{
+    background-color: #2F323A;
+    color: #D8DBE2;
+    text-align: center;
+    height: 60px;
+    padding: 15px 0px 0px 0px;
+}
+
+#aboutCollege{
+    /* background-color: aqua; */
+    background-image: url('../images/building_4.jpg');
+    background-repeat: no-repeat;
+    height: auto;
+    color: #2F323A;
+}
+
+.messageAU{
+    border: none;
+}

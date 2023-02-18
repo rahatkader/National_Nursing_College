@@ -1,0 +1,48 @@
+body{
+    background-color:mintcream;
+}
+
+p{
+    text-align: justify;
+}
+
+.footer{
+    background-color: #2F323A;
+    color: #D8DBE2;
+    text-align: center;
+    height: 60px;
+    padding: 15px 0px 0px 0px;
+}
+
+.d-block {
+    max-height: 700px;
+}
+
+.coll_name{
+    background-color:lightslategray;
+    opacity: 0.7;
+}
+
+.coll_name h1{
+    border-bottom: 5px solid lightblue;
+}
+
+
+.faculties_heading{
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+    padding: 4px 0px;
+}
+
+.faculty_card{
+    width: 300px;
+    padding: 0px 0px;
+    margin: 20px 20px;
+    text-align: center;
+}
+
+.faculty_card p{
+    text-align: center;
+    padding: 0px 0px;
+}
